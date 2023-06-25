@@ -1,0 +1,67 @@
+Physically identified but not in Records silicon and PCH Details
+
+Silcon 			PCH
+00699				01296
+00782	-ajithcrd4		00159-ajithcrd4
+00379				-----
+00946				06195
+01251				-----
+00293				04553
+
+Total working motherboards :
+BC00000764440-ODC
+BC00000678398-ODC
+BC00000710107-ODC
+BC00000652432-ODC
+
+
+Total Working NVME :
+BC00000776558-ODC
+BC00000776544-ODC
+BC00000542899-Ajithkumarcrd4
+
+Ideal NVME with non ODC Location in Rack :
+BC00000052391
+BC00000052390
+
+Other Barcode ideal items with non ODC Location in Rack4 :
+666100000032302
+666100000056472
+666100000067774
+666100000043383
+666100000019946
+BC00000094674
+BC00000094670
+BC00000121787
+666100000074856
+666100000081916
+666100000080954
+666100000106921-Hemkumar
+BC00000346261-Swagathika
+BC00000568786-Priyesh
+BC00000166550
+BC00000166552
+BC00000084543
+total=17
+
+NO Brcode items :
+7 lan to USB 2.0 converters
+one 512gb SSD545 SERIES - MODEL-SSDSC2KW512GB
+One HDMI video Capture
+3 logitech mouse
+3 Dell key board
+3 logitech keyboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
